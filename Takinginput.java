@@ -4,7 +4,7 @@ public class Takinginput {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // string input(reads only first name)
+        //  string input(reads only first name)
         
         // System.out.println("Enter your name");
         // String name = sc.next();
