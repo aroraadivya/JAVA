@@ -21,5 +21,18 @@ public class BitwiseOperators {
 
         System.out.println(q >> 1);
         System.out.println(q >> 2);
+
+        System.out.println(q >> 1);
+        System.out.println(q >> 2);
+
+        System.out.println(p | q);
+        System.out.println(p & q);
+        System.out.println(p ^ q);
+
+        System.out.println(q >> 1);
+        System.out.println(q >> 2);
+
+        System.out.println(q >> 1);
+        System.out.println(q >> 2);
     }
 }
