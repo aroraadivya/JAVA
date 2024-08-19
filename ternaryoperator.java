@@ -7,7 +7,8 @@ public class ternaryoperator {
 
         System.out.println(num % 2 == 0 ? "Even" : "Odd");
         System.Out.println(num % 2 == 0 ? "Even" : "Odd");
-
+        System.out.println(num % 2 == 0 ? "Even" : "Odd");
+        System.Out.println(num % 2 == 0 ? "Even" : "Odd");
 
     }
 }
