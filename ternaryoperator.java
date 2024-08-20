@@ -6,9 +6,6 @@ public class ternaryoperator {
         int num = sc.nextInt();
 
         System.out.println(num % 2 == 0 ? "Even" : "Odd");
-        System.Out.println(num % 2 == 0 ? "Even" : "Odd");
-        System.out.println(num % 2 == 0 ? "Even" : "Odd");
-        System.Out.println(num % 2 == 0 ? "Even" : "Odd");
 
     }
 }
