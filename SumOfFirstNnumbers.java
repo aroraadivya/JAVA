@@ -5,10 +5,11 @@ public class SumOfFirstNnumbers {
         int num = 1;
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        
+
         while(num<=n){
             System.out.println(num);
             num++;
+            // or num = num +1;
         }
     }
 }
