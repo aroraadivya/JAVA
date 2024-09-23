@@ -8,7 +8,5 @@ public class ternaryoperator {
         System.out.println(num % 2 == 0 ? "Even" : "Odd");
 
 
-        
-
     }
 }
