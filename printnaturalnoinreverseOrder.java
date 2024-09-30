@@ -9,4 +9,6 @@ public class printnaturalnoinreverseOrder {
             System.out.println(num);
         }
     }
+
+    
 }
