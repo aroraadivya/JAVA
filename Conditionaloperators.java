@@ -9,6 +9,7 @@ public class Conditionaloperators {
 
         if(value % 2 ==0 && value % 3==0){
             System.out.println("ans" + value);
+            sc.close();
         }
     }
 }
