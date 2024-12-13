@@ -7,6 +7,7 @@ public class printnaturalnoinreverseOrder {
 
         for(int num=1; num>=n; num--){
             System.out.println(num);
+            sc.close();
         }
     }
 
