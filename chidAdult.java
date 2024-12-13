@@ -11,6 +11,7 @@ public class chidAdult {
             System.out.println("Teen");
         }else{
             System.out.println("Adult");
+            sc.close();
         }
     }
 }

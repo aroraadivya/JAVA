@@ -6,6 +6,7 @@ public class divisibleby3or5 {
 
         if(value % 3 == 0 || value % 5 == 0){
             System.out.println("ans " + value);
+            sc.close();
         }
     }
 }
